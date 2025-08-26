@@ -1,5 +1,4 @@
 # Using-Machine-Learning-to-Solve-the-8-Puzzle
-# Learned Heuristics for the 8-Puzzle and 15-Puzzle
 
 This repository contains code and experiments for learning and evaluating heuristics on the classic **8-puzzle** and **15-puzzle** search problems.  
 The project explores how machine learning models (e.g., XGBoost) can be trained on ground-truth shortest distances and later used as heuristics for A* search.
